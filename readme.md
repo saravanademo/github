@@ -1,3 +1,11 @@
+ feauture
+# Git
+this is complete git course
+
+# git changes
+
+# this is feature
+
 # Gitgi
 this is complete git course
 
@@ -10,3 +18,4 @@ conflicts irukku
 main->new-bug
 resolve conflicts .....
 new-bug->main  -->
+ main
